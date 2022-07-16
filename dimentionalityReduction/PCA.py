@@ -1,3 +1,3 @@
 #importing the requirements
 
-import numpy as npm
+import numpy as np
